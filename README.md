@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, My name is Jessadakron Manee 👋
+Bachelor of Science in Computer Science Kasetsart University, 2022
 ---
 #### All Projects
 | No. | Name | Link1 | Link2 |
