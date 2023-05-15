@@ -1,6 +1,7 @@
 ### Hello, My name is Jessadakron Manee 👋
 Bachelor of Science in Computer Science Kasetsart University, 2022
- I have Just started working for 1-2 months. Now learn about SQL Server and Fox Pro to program and connect company databases.
+---
+I have Just started working for 1-2 months. Now learn about SQL Server and Fox Pro to program and connect company databases.
 ---
 #### salesforce 
 https://trailblazer.me/id/jmanee2
